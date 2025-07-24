@@ -1,8 +1,8 @@
 # Relatório Final - Página Colaborativa de Receitas
 
 ## Integrantes do Grupo
-- Nome do projeto:
-- Integrantes:
+- Nome do projeto: Livro de Receitas
+- Integrantes: Tiago Pinto , Tiago Teixeira , João Fernandes
 - Repositório: [link]
 
 ## Branches Criadas
