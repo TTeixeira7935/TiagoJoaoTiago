@@ -17,8 +17,12 @@
 * Print ou link do gráfico de contribuições.
 
 ## Issues Criadas
-
-Liste as issues criadas e quem ficou responsável por cada uma.
+-Criar receita de pão de queijo(Tiago Pinto)
+-Criar receita de bolo de cenoura com cobertura de chocolate(João Fernandes)
+-Conteúdo de bolo de chocolate(Tiago Teixeira)
+-Receita errada - Bolo de chocolate(João Fernandes/Tiago Teixeira)
+-Mudar o nome da pasta feature(Tiago Pinto)
+-Preencher o relatório(Todos)
 
 ## Pull Requests
 
