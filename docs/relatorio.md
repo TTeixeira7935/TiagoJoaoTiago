@@ -53,6 +53,7 @@
 -Atualizar o Site com nova receita de Polvo(Tiago Teixeira)
 
 -Adicionar Receita do pastel de nata(João Fernandes)
+-Adicionar Receita do pastel de nata ao Site(Tiago Teixeira)
 
 -Melhoria visual do site(Tiago Teixeira)
 
