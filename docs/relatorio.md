@@ -92,6 +92,7 @@ Além disso, também surgiram pequenos conflitos relacionados com reestruturaç�
 ## Dificuldades Enfrentadas
 
 Uma das principais dificuldades foi aprender a colaborar de forma eficiente com Git, especialmente no início, quando ainda estávamos a entender como funcionavam os branches, pull requests e merge conflicts.
+Houve também dificuldade em entender que ao criar commits deveríamos utilizar a forma padrão sugerida em CONTRIBUTING.md, daí haver alguma inconsistência ao longo do desenvolver do projeto.
 
 ## Principais Comandos Git Utilizados
 
