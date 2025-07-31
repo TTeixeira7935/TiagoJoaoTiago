@@ -28,7 +28,18 @@
 
 * feat: Create PolvoALagareiro.md -> Adição da receita para 'Polvo À Lagareiro'
 * fix: Atualização para html -> Ficheiros passados de mk para html, para tornar mais visualmente apelativo -Receita Polvo adicionado
-* <img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/c5f1f795-f6df-49ba-b222-7656c431350f" />
+* update: relatorio.md
+* feat: AddFrancesinha
+* fix: AtualizarSiteComPastelDeNata
+* fix: ReceitasHTML
+* feat: AddBoloDeChocolate
+* feat: AddPastelDeFrango
+* feat: AddPastelDeNata
+* feat: AddArrozDoce
+* feat: AddPolvoALagareiro
+* feat: AddBoloDeCenoura
+* feat: AddPaoDeQueijo
+ <img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/c5f1f795-f6df-49ba-b222-7656c431350f" />
 
 ## Issues Criadas
 
@@ -65,6 +76,7 @@ Os Pull Requests foram revistos por outros membros. Aqui está a lista dos princ
 * Create Arroz Doce
 * feat: Create Polvo À Lagareiro
 * feat: Adicionar Francesinha
+* Mudanca de ficheiro Pastel
 * Fixes/Updates de receitas/relatório
 
 ## Conflitos e Resoluções
