@@ -28,7 +28,7 @@
 
 * feat: Create PolvoALagareiro.md -> Adição da receita para 'Polvo À Lagareiro'
 * fix: Atualização para html -> Ficheiros passados de mk para html, para tornar mais visualmente apelativo -Receita Polvo adicionado
-* Print ou link do gráfico de contribuições.
+* <img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/c5f1f795-f6df-49ba-b222-7656c431350f" />
 
 ## Issues Criadas
 
