@@ -57,7 +57,23 @@
 
 ## Pull Requests
 
-Descreva o processo de revisão e merges realizados.
+Os Pull Requests foram revistos por outros membros. Aqui está a lista dos principais PRs feitos:
+
+-Create Pão de Queijo
+
+-Create Bolo de Chocolate
+
+-Create Bolo de Cenoura com Cobertura de Chocolate
+
+-Create Pastel de Frango
+
+-Create Arroz Doce
+
+-feat: Create Polvo À Lagareiro
+
+-feat: Adicionar Francesinha
+
+-Fixes/Updates de receitas/relatório
 
 ## Conflitos e Resoluções
 
@@ -69,7 +85,23 @@ Dúvidas ou problemas que surgiram.
 
 ## Principais Comandos Git Utilizados
 
-Liste e comente comandos importantes usados no projeto.
+git add
+
+git commit
+
+git push
+
+git fetch
+
+git clone
+
+git status
+
+git diff
+
+git merge
+
+git pull
 
 ## Conclusão
 
