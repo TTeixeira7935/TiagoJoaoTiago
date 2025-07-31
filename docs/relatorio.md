@@ -9,6 +9,9 @@
 ## Branches Criadas
 
 * fix/CorrigirPastasFicheirosESrc
+* fix/Relatorio
+* fix/PastelDeNataSite
+* feat/AddFrancesinha
 * fix/SitePolvoALagareiro
 * feature/polvoalagareiro
 * fix/SiteArrozDoce
