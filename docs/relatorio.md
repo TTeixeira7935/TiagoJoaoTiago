@@ -51,9 +51,7 @@
 -Adicionar Receita do pastel de nata ao Site(Tiago Teixeira)
 -Adicionar Francesinha ao Site
 -Melhoria visual do site(Tiago Teixeira)
-
 -Mudar ficheiros das receitas para HTML(Tiago Teixeira)
-
 -Corrigir as pastas das receitas e src(Tiago Teixeira/João Fernandes)
 -Preencher o relatório(Todos)
 
