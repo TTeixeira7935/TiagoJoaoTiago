@@ -4,24 +4,61 @@
 
 * Nome do projeto: Livro de Receitas
 * Integrantes: Tiago Pinto (DiSyllar), Tiago Teixeira, João Fernandes
-* Repositório: \[link]
+* Repositório: https://github.com/TTeixeira7935/TiagoJoaoTiago.git
 
 ## Branches Criadas
 
-* Uma branch criada para cada receita (feature/bolo-de-cenoura-com-cobertura-de-chocolate, feature/bolo-de-chocolate, feature/pao-de-queijo).
-* Alguns dos merges foram feitos diretamente, enquanto outros foram feitos com pull requests e revisões.
+* fix/CorrigirPastasFicheirosESrc
+* fix/SitePolvoALagareiro
+* feature/polvoalagareiro
+* fix/SiteArrozDoce
+* feature/ArrozDoce
+* fix/melhoriaSite
+* fix/pastasPastel
+* feature/pastel-de-frango
+* feature/bolo-de-cenoura-com-cobertura-de-chocolate
+* feature/bolo-de-chocolate
+* feature/pao-de-queijo
+* Alguns Branches foram feitos diretamente, enquanto outros foram feitos com pull requests e revisões.
 
 ## Histórico de Commits
 
-* Exemplo de boas mensagens de commit.
+* feat: Create PolvoALagareiro.md -> Adição da receita para 'Polvo À Lagareiro'
+* fix: Atualização para html -> Ficheiros passados de mk para html, para tornar mais visualmente apelativo -Receita Polvo adicionado
 * Print ou link do gráfico de contribuições.
 
 ## Issues Criadas
+
 -Criar receita de pão de queijo(Tiago Pinto)
 -Criar receita de bolo de cenoura com cobertura de chocolate(João Fernandes)
 -Conteúdo de bolo de chocolate(Tiago Teixeira)
 -Receita errada - Bolo de chocolate(João Fernandes/Tiago Teixeira)
+
+-Feature-Receitas(Tiago Teixeira)
 -Mudar o nome da pasta feature(Tiago Pinto)
+
+-Fazer com que o index.html mostre as receitas(Tiago Teixeira)
+
+-Mudar os ficheiros das receitas para .md(Tiago Pinto/João Fernandes)
+
+-Receita de Arroz Doce(Tiago Teixeira)
+
+-Arranjar o Site para aparecer Arroz Doce(Tiago Teixeira)
+
+-Melhoria visual do site(Tiago Teixeira)
+
+-Fazer uma receita de Pastel de frango(Tiago Teixeira)
+
+-Adicionar Receita de Polvo à Lagareiro(Tiago Pinto)
+-Atualizar o Site com nova receita de Polvo(Tiago Teixeira)
+
+-Adicionar Receita do pastel de nata(João Fernandes)
+
+-Melhoria visual do site(Tiago Teixeira)
+
+-Mudar ficheiros das receitas para HTML(Tiago Teixeira)
+
+-Corrigir as pastas das receitas e src(Tiago Teixeira/João Fernandes)
 -Preencher o relatório(Todos)
 
 ## Pull Requests
