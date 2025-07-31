@@ -69,11 +69,17 @@ Os Pull Requests foram revistos por outros membros. Aqui está a lista dos princ
 
 ## Conflitos e Resoluções
 
-Explique se houve conflitos e como foram resolvidos.
+Durante o desenvolvimento do projeto, ocorreram alguns conflitos de merge, especialmente ao trabalhar com receitas que foram alteradas simultaneamente por diferentes membros. Um exemplo disso foi quando dois membros modificaram o ficheiro bolo-de-chocolate.html em branches diferentes.
+
+Para resolver, usámos os comandos git status e git diff para identificar as diferenças e, em seguida, editámos manualmente os ficheiros em conflito, garantindo que o conteúdo final ficasse consistente e atualizado.
+
+
+
+Além disso, também surgiram pequenos conflitos relacionados com reestruturação de pastas, como a mudança da pasta feature e reorganização dos ficheiros .md para .html. Estes foram resolvidos através de comunicação entre os membros e divisão clara de responsabilidades.
 
 ## Dificuldades Enfrentadas
 
-Dúvidas ou problemas que surgiram.
+Uma das principais dificuldades foi aprender a colaborar de forma eficiente com Git, especialmente no início, quando ainda estávamos a entender como funcionavam os branches, pull requests e merge conflicts.
 
 ## Principais Comandos Git Utilizados
 
@@ -89,5 +95,11 @@ Dúvidas ou problemas que surgiram.
 
 ## Conclusão
 
-Aprendizados principais do grupo com a atividade.
+Este projeto permitiu ao grupo aprender na prática como usar o Git e GitHub para desenvolvimento colaborativo, desde a criação de branches até à resolução de conflitos. Também melhorámos as nossas habilidades de colaboração em grupo.
+
+
+
+Ficou claro o valor de ter uma boa comunicação e de seguir boas práticas, como criar pull requests e descrever claramente as alterações nos commits.
+
+No fim, conseguimos entregar um site funcional, visualmente apelativo e com várias receitas completas, com contribuições bem distribuídas por todos os membros.
 
